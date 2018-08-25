@@ -6,3 +6,11 @@ Online Text Editor
 • Further converted it to use Servlets to make it accessible from a Web Browser.
 
 Note : Source Code while conversion to Applet and then to Servlet has been put as a separate projects in two distinct folders.
+
+# Thanks
+
+Comments? Suggestions?
+
+Please, leave a comment.
+
+Thanks for being here! Enjoy!
