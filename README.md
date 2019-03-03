@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.io/abhinav-codealchemist/ED-IT.svg)](http://hits.dwyl.io/abhinav-codealchemist/ED-IT)
 # ED-IT+
 Online Text Editor
 
